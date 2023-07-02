@@ -1,0 +1,15 @@
+*.pkl
+*.pth
+*.pyc
+__pycache__
+*.h5
+filelists/*.txt
+evaluation/test_filelists/lr*.txt
+*.pyc
+*.mkv
+*.gif
+*.webm
+*.mp3
+checkpoints/
+d_model/
+node_modules/

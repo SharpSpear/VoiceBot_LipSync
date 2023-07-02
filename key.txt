@@ -1,0 +1,31 @@
+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
+
+username:  eilert
+Password:-  P@ssw0rd@123
+command:-  ssh -i <Path of Pem Key> eilert@13.78.133.88
+
+
+####    Microsoft Office 365 Credentials   ####
+Username: eilert.feldt@skyovi.com
+Password: Zoy13831
+
+
+https://chat.betterflai.com/admin.php?    
+User ID: eilert.feldt@skyovi.com
+Password: Test@123
+
+https://attflex.com/flex360/opera/admin/authentication/
+gary.yonker@gmail.com 
+SKY123
+
+username:  eilert
+Password:-  P@ssw0rd@123
+command:-  ssh -i <Path of Pem Key> eilert@13.78.133.88
+
+username:  eilert
+Password:-  P@ssw0rd@123
+command:-  ssh -i <Path of Pem Key> eilert@20.241.65.48
+
+username:  eilert
+Password:-  P@ssw0rd@123
+command:-  ssh -i <Path of Pem Key> eilert@65.52.15.118

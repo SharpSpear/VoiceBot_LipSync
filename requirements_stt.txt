@@ -1,0 +1,9 @@
+av
+numpy
+pydub
+streamlit
+twilio
+openai
+gtts
+speechrecognition
+pyaudio
